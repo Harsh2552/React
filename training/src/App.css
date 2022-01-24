@@ -1,10 +1,44 @@
-/*.App {
+.App {
   text-align: center;
-}*/
+}
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+.abe{
+  color: #61dafb;
+  background-color: black;
+}
+.abf{
+  font-size: 30px;
+}
+.abi{
+  margin-top: 20px;
+  height: 200px;
+  width: 420px;
+  float: left;
+  border: 1px solid black;
+  margin-left: 10px;
+  margin-bottom: 30px;
+}
+.abg{
+  height: 200px;
+  width: 400px;
+  float: left;
+  margin-left: 20px;
+  margin-top: 10px;
+  
+  margin-bottom: 10px;
+}
+.abc{
+  margin-top: 20px;
+  height: 200px;
+  width: 660px;
+  float: left;
+  border: 1px solid black;
+  margin-left: 10px;
+  margin-bottom: 30px;
 }
 .ee{
   color: #61dafb;
@@ -15,6 +49,71 @@
   background-color: chartreuse;
   font-size: 40px;
   text-align: center;
+}
+.about{
+  color: #708090;
+  background-color: aliceblue;
+}
+.new{
+  color: red;
+  background-color: black;
+}
+.function{
+  color: aquamarine;
+  background-color: blanchedalmond;
+}
+.class{
+  color: #61dafb;
+  background-color: black;
+}
+.a{
+  height: 100px;
+  background-color: silver;
+  text-align: center;
+}
+.b{
+  font-size: 70px;
+  color: red;
+}
+h2{
+  font-size: 35px;
+  font-style: italic;
+  color: palevioletred;
+}
+.div{
+  height: 200px;
+  width: 440px;
+  border: 1px solid;
+  margin-left: 10px;
+  float: left;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  text-align: center;
+
+}
+.div3{
+  height: 100px;
+  width: 440px;
+  border: 1px solid black;
+  margin-left: 10px;
+  float: left;
+  
+
+}
+.d{
+  color: purple;
+}
+.div4{
+  height: 130px;
+  width: 1343px;
+  border: 1px solid black;
+  margin-left: 10px;
+  float: left;
+  margin-top: 10px;
+  text-align: center;
+  background-color: seashell;
+  
+
 }
 .uu{
   display: inline;
